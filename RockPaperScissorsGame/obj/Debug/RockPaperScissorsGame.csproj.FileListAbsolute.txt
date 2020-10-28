@@ -1,0 +1,15 @@
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe.config
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.exe
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\bin\Debug\RockPaperScissorsGame.pdb
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csprojAssemblyReference.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\MainWindow.g.cs
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\App.g.cs
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame_MarkupCompile.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame_MarkupCompile.lref
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\MainWindow.baml
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.g.resources
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.Properties.Resources.resources
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csproj.GenerateResource.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.exe
+C:\Users\Tong Wang\OneDrive - Conestoga College\Software Dev 8010\Assignments\Week 6\RockPaperScissorsGame\obj\Debug\RockPaperScissorsGame.pdb
